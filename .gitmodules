@@ -1,10 +1,10 @@
 [submodule "crates/wasmi/benches/rust"]
 	path = crates/wasmi/benches/rust
-	url = https://github.com/wasmi-labs/rust-benchmarks
+	url = https://github.com/vuljector/rust-benchmarks
 [submodule "crates/wast/tests/wasmi"]
 	path = crates/wast/tests/wasmi
-	url = https://github.com/wasmi-labs/wasmi-tests
+	url = https://github.com/vuljector/wasmi-tests
 [submodule "crates/wast/tests/spec"]
 	path = crates/wast/tests/spec
-	url = https://github.com/WebAssembly/testsuite.git
+	url = https://github.com/vuljector/testsuite
 	branch = main
